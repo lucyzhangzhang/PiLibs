@@ -1,0 +1,30 @@
+# vi files
+*.swp
+*.swo
+
+# log files
+*.log
+*.out
+
+# sequence files
+*.f*q*
+*.f*a*
+
+# compressed files
+*.gz
+*.zip
+*.bam
+*.sam
+
+# STAR outputs
+STAR
+STAR/*
+
+# QoRts
+QoRTs
+
+# trimmed reads
+trimOut
+
+# raw data
+PiLibs
