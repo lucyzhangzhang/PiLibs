@@ -4,7 +4,7 @@
 ```cd PiLibs```
 
 ## Trimmed reads
-```cd trimOut
+```cd trimOut```
 
 ## STAR outputs
 ``` cd STAR```
